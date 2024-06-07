@@ -1,0 +1,29 @@
+#game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+#game-board {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+memory-card {
+    display: block;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+memory-card img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

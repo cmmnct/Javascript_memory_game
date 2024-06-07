@@ -1,0 +1,99 @@
+{
+    "cards": [
+        {
+            "set": "eend",
+            "name1": "duck",
+            "name2": "duck"
+        },
+        {
+            "set": "kitten",
+            "name1": "kitten",
+            "name2": "kitten"
+        },
+        {
+            "set": "big",
+            "name1": "piglet",
+            "name2": "piglet"
+        },
+        {
+            "set": "puppy",
+            "name1": "puppy",
+            "name2": "puppy"
+        },
+        {
+            "set": "kalf",
+            "name1": "calf",
+            "name2": "calf"
+        },
+        {
+            "set": "veulen",
+            "name1": "veal",
+            "name2": "veal"
+        },
+        {
+            "set": "lam",
+            "name1": "lamb",
+            "name2": "lamb"
+        },
+        {
+            "set": "haan",
+            "name1": "rooster",
+            "name2": "rooster"
+        },
+        {
+            "set": "paard",
+            "name1": "horse",
+            "name2": "horse"
+        },
+        {
+            "set": "muis",
+            "name1": "mouse",
+            "name2": "mouse"
+        },
+        {
+            "set": "hond",
+            "name1": "dog",
+            "name2": "dog"
+        },
+        {
+            "set": "kat",
+            "name1": "cat",
+            "name2": "cat"
+        },
+        {
+            "set": "gans",
+            "name1": "goose",
+            "name2": "goose"
+        },
+        {
+            "set": "geit",
+            "name1": "goat",
+            "name2": "goat"
+        },
+        {
+            "set": "schaap",
+            "name1": "sheep",
+            "name2": "sheep"
+        },
+        {
+            "set": "varken",
+            "name1": "pig",
+            "name2": "pig"
+        },
+        {
+            "set": "koe",
+            "name1": "cow",
+            "name2": "cow"
+        },
+        {
+            "set": "kuiken",
+            "name1": "chick",
+            "name2": "chick"
+        },
+        {
+            "set": "kip",
+            "name1": "hen",
+            "name2": "hen"
+        }
+    ]
+}
